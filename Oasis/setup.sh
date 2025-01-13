@@ -49,7 +49,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    Oasis BOT SETUP AND RUN SCRIPT by @MeoMunDep"
+    echo "    Oasis-Distribute.ai BOT SETUP AND RUN SCRIPT by @MeoMunDep"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"

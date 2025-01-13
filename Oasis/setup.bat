@@ -1,5 +1,5 @@
 @echo off
-title Oasis Bot by @MeoMunDep
+title Oasis-Distribute.ai Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Oasis BOT SETUP AND RUN SCRIPT by @MeoMunDep
+echo    Oasis-Distribute.ai BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
