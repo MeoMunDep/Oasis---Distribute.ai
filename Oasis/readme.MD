@@ -49,7 +49,15 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/18730)
+### 2. `emails.txt` 🗂️ - Your emails's address.
+
+```txt
+abcxyz@gmail.com
+abcxyz@gmail.com
+abcxyz@gmail.com
+```
+
+### 2.1 `passwords.txt` 🗂️ - Your emails's passwords.
 
 ```txt
 xxx...
@@ -81,6 +89,6 @@ socks5://user:password@host:port
 
 > You need to `cd` to the file after extract it.
 > Do not turn on extension when run script.
-> To run the bot, use the following command: `cd oasis-main/oasis; node meomundep`
+> To run the bot, use the following command: `cd "oasis---Distribute.ai-main/oasis"; node meomundep`
 
 🎇Enjoy!

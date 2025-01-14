@@ -53,13 +53,13 @@ goto MENU
 cls
 echo Creating configuration files...
 
-if not exist datas.txt (
-    type nul > datas.txt
-    echo Created datas.txt
+if not exist emails.txt (
+    type nul > emails.txt
+    echo Created emails.txt
 )
-if not exist wallets.txt (
-    type nul > wallets.txt
-    echo Created wallets.txt
+if not exist passwords.txt (
+    type nul > passwords.txt
+    echo Created passwords.txt
 )
 if not exist proxies.txt (
     type nul > proxies.txt
