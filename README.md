@@ -48,40 +48,27 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 ```
 
-### 2. `emails.txt` 🗂️ - Your emails's address.
+### 2. `tokens.txt` 🗂️ - Your tokens
 
 ```txt
-abcxyz@gmail.com
-abcxyz@gmail.com
-abcxyz@gmail.com
+token
+token
+token
 ```
 
-### 2.1 `passwords.txt` 🗂️ - Your emails's passwords.
+### 3. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
+
+- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
 
 ```txt
-xxx...
-xxx...
-xxx...
-```
-
-### 3. `wallets.txt` 💼 - Cannot update yet.
-
-- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
-
-
-```txt - wallet address
-abc...xyz
-abc...xyz
-abc...xyz
-```
-
-### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
-
-```txt
-http://user:password@host:port
-https://user:password@host:port
-socks4://user:password@host:port
-socks5://user:password@host:port
+http://host:port
+https://host:port
+socks4://host:port
+socks5://host:port
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port
 ```
 
 💡 Usage:
