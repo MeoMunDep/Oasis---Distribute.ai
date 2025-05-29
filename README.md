@@ -29,7 +29,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios meo-forkcy-colors colors https-proxy-agent socks-proxy-agent crypto-js ws 
+   npm i user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent crypto-js ws 
    ```
 
 2. **Prepare Configuration Files:**
