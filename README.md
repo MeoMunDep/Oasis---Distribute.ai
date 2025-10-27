@@ -2,14 +2,13 @@
 
 > [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
-
-> If you encounter any issues or have questions, feel free to reach out:
+If you encounter any issues or have questions, feel free to reach out:
 
 - Contact: [Link](t.me/MeoMunDep)
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link](https://r.oasis.ai/84f1f3bfb6ad63c1)
+Help me with your referral [Link](https://r.oasis.ai/84f1f3bfb6ad63c1)
 
 ## 🚀 Getting Started
 
@@ -75,6 +74,6 @@ socks5://user:pass@host:port
 
 > You need to `cd` to the file after extract it.
 > Do not turn on extension when run script.
-> To run the bot, use the following command: `cd "oasis---Distribute.ai-main"; node meomundep`
+> To run the bot, use the following command: `cd "oasis---Distribute.ai"; node meomundep`
 
 🎇Enjoy!
